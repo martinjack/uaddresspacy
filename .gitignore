@@ -1,0 +1,6 @@
+dist
+report.csv
+CHANGELOG.md
+.~*
+__pycache__
+*egg-info
