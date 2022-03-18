@@ -1,5 +1,6 @@
 ![header](doc/header.png)
 # Опис
+[![PyPI version](https://badge.fury.io/py/uaddresspacy.svg)](https://badge.fury.io/py/uaddress)
 
 Розбирання української адреси на типи
 
